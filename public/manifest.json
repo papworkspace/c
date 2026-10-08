@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "ThaiRoute แอปเช็คน้ำท่วม การจราจร และสภาพอากาศทั่วไทย",
+  "short_name": "เช็คน้ำจราจร",
+  "description": "แอปพลิเคชันเช็คน้ำท่วมขัง สัญลักษณ์สีจราจร (เขียว-เหลือง-แดง) และสภาพอากาศเรียลไทม์ทั่วไทย ค้นหาได้ทั้งชื่อสถานที่ ถนน และคำถามสถานการณ์สด",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

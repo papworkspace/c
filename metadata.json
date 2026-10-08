@@ -1,0 +1,10 @@
+{
+  "name": "Remix ThaiRoute Weather \u0026 Flood Watch",
+  "description": "ระบบเช็คสภาพอากาศและระดับน้ำท่วมขังตลอดเส้นทางทั่วประเทศไทยแบบเรียลไทม์ เข้าใจง่ายด้วยภาษาชาวบ้าน",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
